@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_JvJrcZVLEeyI_NQZ8Dh7EQ" label="dev_project_test" language="java" technicalLabel="DEV_PROJECT_TEST" author="_JvJrcpVLEeyI_NQZ8Dh7EQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/yongfeng98/dnt-projecy.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_JvJrcZVLEeyI_NQZ8Dh7EQ" label="dev_project_test" language="java" technicalLabel="DEV_PROJECT_TEST" author="_JvJrcpVLEeyI_NQZ8Dh7EQ" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/yongfeng98/dnt-projecy.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_JxsCEJVLEeyI_NQZ8Dh7EQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_JvJrcpVLEeyI_NQZ8Dh7EQ" login="mohdazahari@dagangnet.com" firstName="Azahari" lastName="Mohd" type="DQ"/>
